@@ -1,0 +1,95 @@
+/*This shouldnt be .header as there is no class called header*/
+body {
+	background:lightgray;;
+}
+
+.navbar-container {
+	  background-color: white;
+	width: 100%;
+}
+
+.navbar {
+	background-color: #4AAAA5;
+    
+}
+
+.name {
+	background-color: #4AAAA5;
+    display: inline-block;
+    height: 100%;
+	width: 20%;
+}
+
+.menu {
+	float: right;
+	display: inline-block;
+	height: 100%;
+	list-style-type: none;
+	margin: 0 0 0 auto;
+	padding: 0;
+}
+
+li {
+	display: inline-block;
+	padding: 20px 30px;
+	text-align: center;
+}
+
+li > a {
+	display: block;
+	color: grey;
+	text-decoration: none;
+}
+
+td {
+	width: 33%;
+	height: 33%;
+}
+
+#daniel {
+	background-color: #4AAAA5;
+	margin: 0px; 
+
+	padding-left: 10px;
+	padding-right: 10px;
+	
+	
+	
+}
+
+#container { 
+	
+	height: auto; 
+	margin-bottom: 30px;
+	
+
+}
+
+#sticky-footer { 
+	position: relative;
+	width: 100%;
+	top: 0px;
+}
+
+#navbarNavAltMarkup {
+	position: relative; 
+	left: 70%;
+
+}
+
+div > a { 
+	/* border-left: lightgrey; */
+}
+
+#text { 
+	overflow: hidden;
+}
+
+.row {
+	margin: 20px;
+	
+}
+
+
+
+
